@@ -17,4 +17,10 @@ Sistem Manajemen Toko Sepatu ini dirancang untuk meningkatkan efisiensi dan efek
 
 ![image](https://github.com/fahmitriseptiyadi/Shoe-Store-Management-System-An-OOP-Project-for-Admin-and-Customer/assets/94856222/6a8c6c5a-d655-4afe-afab-1bbfb6662959)
 
+![image](https://github.com/fahmitriseptiyadi/Shoe-Store-Management-System-An-OOP-Project-for-Admin-and-Customer/assets/94856222/d0712247-1ef4-465d-94e8-93165a9095c6)
+
+![image](https://github.com/fahmitriseptiyadi/Shoe-Store-Management-System-An-OOP-Project-for-Admin-and-Customer/assets/94856222/2afee317-ab51-4ad6-be78-fed936d562e4)
+
+
+
 
