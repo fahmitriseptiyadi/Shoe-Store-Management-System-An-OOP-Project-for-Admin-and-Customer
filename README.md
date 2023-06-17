@@ -15,3 +15,6 @@ Otentikasi Aman: Sistem ini memastikan otentikasi yang aman bagi administrator d
 
 Sistem Manajemen Toko Sepatu ini dirancang untuk meningkatkan efisiensi dan efektivitas secara keseluruhan dalam mengelola toko sepatu, memberikan pengalaman yang mulus bagi administrator dan pelanggan. Sistem ini memanfaatkan prinsip PBO untuk menciptakan kode yang modular, mudah dipelihara, dan dapat dikembangkan dengan baik.
 
+![image](https://github.com/fahmitriseptiyadi/Shoe-Store-Management-System-An-OOP-Project-for-Admin-and-Customer/assets/94856222/6a8c6c5a-d655-4afe-afab-1bbfb6662959)
+
+
